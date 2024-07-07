@@ -1,5 +1,7 @@
 <br>
-![Screenshot 2024-07-07 183312](https://github.com/GabrieleRuggieri/ChatGPT-clone/assets/125048968/0ccee83f-0d47-4215-9372-ffb42117762f)
+
+![Home](https://github.com/GabrieleRuggieri/ChatGPT-clone/assets/125048968/140f4d9e-e277-46b3-8077-06c9e6d7f4a1)
+
 <br><br>
 # Getting Started with Create React App
 
