@@ -1,3 +1,6 @@
+<br>
+![Screenshot 2024-07-07 183312](https://github.com/GabrieleRuggieri/ChatGPT-clone/assets/125048968/0ccee83f-0d47-4215-9372-ffb42117762f)
+<br><br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
